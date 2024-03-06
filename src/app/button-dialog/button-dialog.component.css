@@ -1,0 +1,15 @@
+.big-button {
+    max-width: 900px;
+}
+
+.dialog-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.close-button{
+    justify-content: center;
+    max-width: 800px;
+}
